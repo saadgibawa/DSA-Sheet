@@ -1,11 +1,17 @@
 # DSA-Sheet  
 
-
 ![DSA](https://img.shields.io/badge/DSA-Practice-blue)  
 
 ![Progress](https://img.shields.io/badge/Progress-Ongoing-orange)  
 
 ![License](https://img.shields.io/badge/License-MIT-Green)  
+
+
+
+## Overall Progress
+
+![Progress](https://progress-bar.dev/20/?title=Completed&width=500&color=babaca)
+
 
 
 ## Overview  
@@ -35,6 +41,7 @@ Striver's A-Z DSA sheet is an excellent resource for anyone looking to build a s
 ## Progress  
 
 I will update this section regularly as I complete more problems:  
+
 
 ## Structure  
 
