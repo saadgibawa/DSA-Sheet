@@ -83,5 +83,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- [Striver](https://takeuforward.org/strivers-a2z-dsa-course/): For creating the A-Z DSA sheet and providing a structured path for DSA practice.
+- [Striver](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/): For creating the A-Z DSA sheet and providing a structured path for DSA practice.
 - The open-source community for continuous learning and collaboration.
