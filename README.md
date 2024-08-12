@@ -54,7 +54,7 @@ I will update this section regularly as I complete more problems:
 | **Binary Search** [0/32]         | Lec 1: BS on 1D arrays            | 0                   | 13                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: BS on answers              | 0                   | 14                  | 00%          | 🔴 Not Started  |
 |                            | Lec 3: BS on 2D arrays            | 0                   | 5                   | 00%          | 🔴 Not Started  |
-| **Strings** [0/15]               | Lec 1: Basic String problems      | 0                   | 7                  | 00%          | 🔴 Not Started  |
+| **Strings[Basic and Medium]** [0/15]               | Lec 1: Basic String problems      | 0                   | 7                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Medium String problems     | 0                   | 8                  | 00%          | 🔴 Not Started  |
 | **Linked Lists** [0/31]           | Lec 1: 1D Linked List             | 6                   | 5                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Doubly Linked List         | 0                   | 4                  | 00%          | 🔴 Not Started  |
@@ -67,6 +67,42 @@ I will update this section regularly as I complete more problems:
 | **Bit Manipulation** [0/18]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Interview Problems         | 0                   | 5                  | 00%          | 🔴 Not Started  |
 |                            | Lec 3: Advanced maths             | 0                   | 5                  | 00%          | 🔴 Not Started  |
+| **Stacks and Queues** [0/30]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Prefix, Infix, PostFix Conversion Problems         | 0                   | 6                  | 00%          | 🔴 Not Started  |
+|                            | Lec 3: Monotonic Stack/Queue Problems [VVV. Imp]             | 0                   | 11                  | 00%          | 🔴 Not Started  |
+|                            | Lec 4: Implementation Problems             | 0                   | 5                  | 00%          | 🔴 Not Started  |
+| **Sliding Window & Two Pointer Combined Problems** [0/12]      | Lec 1: Medium Problems                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Hard Problems         | 0                   | 4                  | 00%          | 🔴 Not Started  |
+| **Heaps** [0/17]      | Lec 1: Learning                   | 0                   | 4                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Medium Problems         | 0                   | 7                  | 00%          | 🔴 Not Started  |
+|                            | Lec 3: Hard Problems             | 0                   | 6                  | 00%          | 🔴 Not Started  |
+| **Greedy Algorithms** [0/16]      | Lec 1: Easy problems                   | 0                   | 5                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Medium / Hard         | 0                   | 11                  | 00%          | 🔴 Not Started  |
+| **Binary Trees** [0/39]      | Lec 1: Transversals                   | 0                   | 13                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Medium Problems         | 0                   | 12                  | 00%          | 🔴 Not Started  |
+|                            | Lec 3: Hard Problems             | 0                   | 14                  | 00%          | 🔴 Not Started  |
+| **Binary Search Trees** [0/16]      | Lec 1: Concepts                   | 0                   | 3                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Practice Problems         | 0                   | 13                  | 00%          | 🔴 Not Started  |
+|**Graphs**   [0/54]         | Lec 1: Learning              | 0                   | 6                  | 00%         | 🔴 Not Started    |
+|                            | Lec 2: Problems on BFS/DFS             | 0                   | 14                  | 00%          | 🟠 In Progress  |
+|                            | Lec 3: Topo Sort and Problems                    | 0                   | 7                  | 00%          | 🔴 Not Started  |
+|                            | Lec 4: Shortest Path Algorithms and Problems                | 0                   | 13                  | 00%          | 🔴 Not Started  |
+|                            | Lec 5: Minimum Spanning Tree/ Disjoint set and problems            | 0                   | 11                  | 00%          | 🔴 Not Started  |
+|                            | Lec 6: Other Algorithms              | 0                   | 3                  | 00%          | 🔴 Not Started  |
+|**Dynamic Programming**   [0/56]         | Lec 1: Introduction to DP              | 0                   | 1                  | 00%         | 🔴 Not Started    |
+|                            | Lec 2: 1D DP             | 0                   | 5                  | 00%          | 🟠 In Progress  |
+|                            | Lec 3: 2D/3D DP and DP on grids                    | 0                   | 7                  | 00%          | 🔴 Not Started  |
+|                            | Lec 4: DP on Subsequences                | 0                   | 11                  | 00%          | 🔴 Not Started  |
+|                            | Lec 5: DP on Strings            | 0                   | 10                  | 00%          | 🔴 Not Started  |
+|                            | Lec 6: DP on Stocks              | 0                   | 6                  | 00%          | 🔴 Not Started  |
+|                            | Lec 7: DP on LIS              | 0                   | 7                  | 00%          | 🔴 Not Started  |
+|                            | Lec 8: MCM DP/ Partition DP              | 0                   | 7                  | 00%          | 🔴 Not Started  |
+|                            | Lec 9: DP on Squares              | 0                   | 2                  | 00%          | 🔴 Not Started  |
+| **Tries** [0/7]      | Lec 1: Theory                   | 0                   | 1                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Problems         | 0                   | 6                  | 00%          | 🔴 Not Started  |
+| **Strings** [0/9]      | Lec 1: Hard Problems                   | 0                   | 9                  | 00%          | 🔴 Not Started  |
+
+
 
 
 
