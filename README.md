@@ -85,13 +85,13 @@ I will update this section regularly as I complete more problems:
 | **Binary Search Trees** [0/16]      | Lec 1: Concepts                   | 0                   | 3                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Practice Problems         | 0                   | 13                  | 00%          | 🔴 Not Started  |
 |**Graphs**   [0/54]         | Lec 1: Learning              | 0                   | 6                  | 00%         | 🔴 Not Started    |
-|                            | Lec 2: Problems on BFS/DFS             | 0                   | 14                  | 00%          | 🟠 In Progress  |
+|                            | Lec 2: Problems on BFS/DFS             | 0                   | 14                  | 00%          | 🔴 Not Started   |
 |                            | Lec 3: Topo Sort and Problems                    | 0                   | 7                  | 00%          | 🔴 Not Started  |
 |                            | Lec 4: Shortest Path Algorithms and Problems                | 0                   | 13                  | 00%          | 🔴 Not Started  |
 |                            | Lec 5: Minimum Spanning Tree/ Disjoint set and problems            | 0                   | 11                  | 00%          | 🔴 Not Started  |
 |                            | Lec 6: Other Algorithms              | 0                   | 3                  | 00%          | 🔴 Not Started  |
 |**Dynamic Programming**   [0/56]         | Lec 1: Introduction to DP              | 0                   | 1                  | 00%         | 🔴 Not Started    |
-|                            | Lec 2: 1D DP             | 0                   | 5                  | 00%          | 🟠 In Progress  |
+|                            | Lec 2: 1D DP             | 0                   | 5                  | 00%          | 🔴 Not Started   |
 |                            | Lec 3: 2D/3D DP and DP on grids                    | 0                   | 7                  | 00%          | 🔴 Not Started  |
 |                            | Lec 4: DP on Subsequences                | 0                   | 11                  | 00%          | 🔴 Not Started  |
 |                            | Lec 5: DP on Strings            | 0                   | 10                  | 00%          | 🔴 Not Started  |
