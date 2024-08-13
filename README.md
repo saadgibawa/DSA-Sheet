@@ -42,7 +42,7 @@ I will update this section regularly as I complete more problems:
 |----------------------------|----------------------------------|---------------------|--------------------|--------------|----------------|
 |**Basics**   [9/31]         | Lec 1: Basics of C++              | 9                   | 9                  | 100%         | ✅ Completed    |
 |                            | Lec 2: Logic building             | 0                   | 1                  | 00%          | 🟠 In Progress  |
-|                            |    --->Patterns             | 0                   | 22                  | 00%          | 🟠 In Progress  |
+|                            |    --->Patterns             | 8                   | 22                  | 36%          | 🟠 In Progress  |
 |                            | Lec 3: C++ STL                    | 0                   | 2                  | 00%          | 🔴 Not Started  |
 |                            | Lec 4: Basic Maths                | 0                   | 7                  | 00%          | 🔴 Not Started  |
 |                            | Lec 5: Basic recursion            | 0                   | 9                  | 00%          | 🔴 Not Started  |
