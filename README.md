@@ -41,10 +41,10 @@ I will update this section regularly as I complete more problems:
 | **Topic**                  | **Subtopic**                      | **Problems Solved** | **Total Problems** | **Progress** | **Status**     |
 |----------------------------|----------------------------------|---------------------|--------------------|--------------|----------------|
 |**Basics**   [9/31]         | Lec 1: Basics of C++              | 9                   | 9                  | 100%         | ✅ Completed    |
-|                            | Lec 2: Logic building             | 0                   | 1                  | 00%          | 🟠 In Progress  |
-|                            |    --->Patterns             | 15                   | 22                  | 68%          | 🟠 In Progress  |
-|                            | Lec 3: C++ STL                    | 0                   | 2                  | 00%          | 🔴 Not Started  |
-|                            | Lec 4: Basic Maths                | 0                   | 7                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Logic building             | 1                   | 1                  | 100%          | ✅ Completed  |
+|                            |    --->Patterns             | 22                   | 22                  | 100%          | ✅ Completed  |
+|                            | Lec 3: C++ STL                    | 2                   | 2                  | 100%          | ✅ Completed  |
+|                            | Lec 4: Basic Maths                | 0                   | 7                  | 00%          | 🟠 In Progress  |
 |                            | Lec 5: Basic recursion            | 0                   | 9                  | 00%          | 🔴 Not Started  |
 |                            | Lec 6: Basic hashing              | 0                   | 3                  | 00%          | 🔴 Not Started  |
 | **Sorting** [0/7]          | Lec 1: Sorting I                  | 0                   | 3                  | 00%          | 🔴 Not Started  |
