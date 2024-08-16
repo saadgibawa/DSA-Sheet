@@ -44,8 +44,8 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 2: Logic building             | 1                   | 1                  | 100%          | ✅ Completed  |
 |                            |    --->Patterns             | 22                   | 22                  | 100%          | ✅ Completed  |
 |                            | Lec 3: C++ STL                    | 2                   | 2                  | 100%          | ✅ Completed  |
-|                            | Lec 4: Basic Maths                | 0                   | 7                  | 00%          | 🟠 In Progress  |
-|                            | Lec 5: Basic recursion            | 0                   | 9                  | 00%          | 🔴 Not Started  |
+|                            | Lec 4: Basic Maths                | 7                   | 7                  | 100%          | ✅ Completed  |
+|                            | Lec 5: Basic recursion            | 0                   | 9                  | 00%          | 🟠 In Progress  |
 |                            | Lec 6: Basic hashing              | 0                   | 3                  | 00%          | 🔴 Not Started  |
 | **Sorting** [0/7]          | Lec 1: Sorting I                  | 0                   | 3                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Sorting II                 | 0                   | 4                  | 00%          | 🔴 Not Started  |
