@@ -40,7 +40,7 @@ I will update this section regularly as I complete more problems:
 
 | **Topic**                  | **Subtopic**                      | **Problems Solved** | **Total Problems** | **Progress** | **Status**     |
 |----------------------------|----------------------------------|---------------------|--------------------|--------------|----------------|
-|**Basics**   [9/31]         | Lec 1: Basics of C++              | 9                   | 9                  | 100%         | ✅ Completed    |
+|**Basics**   [28/31]         | Lec 1: Basics of C++              | 9                   | 9                  | 100%         | ✅ Completed    |
 |                            | Lec 2: Logic building             | 1                   | 1                  | 100%          | ✅ Completed  |
 |                            |    --->Patterns             | 22                   | 22                  | 100%          | ✅ Completed  |
 |                            | Lec 3: C++ STL                    | 2                   | 2                  | 100%          | ✅ Completed  |
