@@ -37,6 +37,11 @@ Striver's A-Z DSA sheet is an excellent resource for anyone looking to build a s
 I will update this section regularly as I complete more problems: 
 
 
+## Overall progress
+
+![Progress](https://img.shields.io/badge/31/455-6%25-red)
+
+
 ## Topics Overview
 
 | **Topic**                  | **Subtopic**                      | **Problems Solved** | **Total Problems** | **Progress** | **Status**     |
