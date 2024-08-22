@@ -53,7 +53,7 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 4: Basic Maths                | 7                   | 7                  | 100%          | ✅ Completed  |
 |                            | Lec 5: Basic recursion            | 9                   | 9                  | 100%          | ✅ Completed  |
 |                            | Lec 6: Basic hashing              | 3                   | 3                  | 100%          | ✅ Completed  |
-| **Sorting** [0/7]          | Lec 1: Sorting I                  | 0                   | 3                  | 00%          | 🟠 In Progress  |
+| **Sorting** [0/7]          | Lec 1: Sorting I                  | 3                   | 3                  | 100%          | 🟠 In Progress  |
 |                            | Lec 2: Sorting II                 | 0                   | 4                  | 00%          | 🔴 Not Started  |
 | **Arrays** [0/40]          | Lec 1: Easy                       | 0                   | 14                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Medium                     | 0                   | 14                  | 00%          | 🔴 Not Started  |
