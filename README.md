@@ -39,7 +39,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/31/455-6%25-red)
+![Progress](https://img.shields.io/badge/38/455-8%25-red)
 
 
 ## Topics Overview
@@ -53,7 +53,7 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 4: Basic Maths                | 7                   | 7                  | 100%          | ✅ Completed  |
 |                            | Lec 5: Basic recursion            | 9                   | 9                  | 100%          | ✅ Completed  |
 |                            | Lec 6: Basic hashing              | 3                   | 3                  | 100%          | ✅ Completed  |
-| **Sorting** [0/7]          | Lec 1: Sorting I                  | 3                   | 3                  | 100%          | ✅ Completed  |
+| **Sorting** [7/7]          | Lec 1: Sorting I                  | 3                   | 3                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Sorting II                 | 4                   | 4                  | 100%          | ✅ Completedd  |
 | **Arrays** [0/40]          | Lec 1: Easy                       | 0                   | 14                  | 00%          | 🟠 In Progress |
 |                            | Lec 2: Medium                     | 0                   | 14                  | 00%          | 🟠 In Progress  |
