@@ -56,7 +56,7 @@ I will update this section regularly as I complete more problems:
 | **Sorting** [7/7]          | Lec 1: Sorting I                  | 3                   | 3                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Sorting II                 | 4                   | 4                  | 100%          | ✅ Completed  |
 | **Arrays** [14/40]          | Lec 1: Easy                       | 14                   | 14                  | 100%          | ✅ Completed |
-|                            | Lec 2: Medium                     | 0                   | 14                  | 00%          | 🟠 In Progress  |
+|                            | Lec 2: Medium                     | 14                   | 14                  | 100%          | ✅ Completed  |
 |                            | Lec 3: Hard                       | 0                   | 12                  | 00%          | 🟠 In Progress  |
 | **Binary Search** [0/32]         | Lec 1: BS on 1D arrays            | 0                   | 13                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: BS on answers              | 0                   | 14                  | 00%          | 🔴 Not Started  |
