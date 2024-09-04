@@ -7,7 +7,6 @@ bool isSorted(int arr[], int n) {
         return false;
     }
   }
-
   return true;
 }
 
@@ -18,6 +17,5 @@ bool isSorted(int arr[], int n) {
     if (arr[i] < arr[i - 1])
       return false;
   }
-
   return true;
 }
