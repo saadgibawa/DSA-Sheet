@@ -1,7 +1,6 @@
 class Solution{
 public:
     vector<int> findTwoElement(vector<int> a, int n) {
-        // code here
         int xr = 0;
 
         for (int i = 0; i < n; i++) {
