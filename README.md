@@ -39,7 +39,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/78/455-17%25-red)
+![Progress](https://img.shields.io/badge/91/455-20%25-red)
 
 
 ## Topics Overview
