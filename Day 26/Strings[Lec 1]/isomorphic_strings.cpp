@@ -15,7 +15,8 @@ public:
                     return false;
                 }
             }
-            else{
+            else
+            {
                 if(m2.find(ans1)!=m2.end()){
                     return false;
                 }
