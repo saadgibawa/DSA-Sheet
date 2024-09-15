@@ -39,7 +39,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/91/455-20%25-red)
+![Progress](https://img.shields.io/badge/125/455-27%25-red)
 
 
 ## Topics Overview
@@ -59,10 +59,10 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 2: Medium                     | 14                   | 14                  | 100%          | ✅ Completed  |
 |                            | Lec 3: Hard                       | 12                   | 12                  | 100%          | ✅ Completed  |
 | **Binary Search** [32/32]         | Lec 1: BS on 1D arrays            | 13                   | 13                  | 100%          | ✅ Completed  |
-|                            | Lec 2: BS on answers              | 0                   | 14                  | 00%          | ✅ Completed  |
-|                            | Lec 3: BS on 2D arrays            | 0                   | 5                   | 00%          | ✅ Completed |
-| **Strings[Basic and Medium]** [15/15]               | Lec 1: Basic String problems      | 0                   | 7                  | 00%          | ✅ Completed  |
-|                            | Lec 2: Medium String problems     | 0                   | 8                  | 00%          | ✅ Completed |
+|                            | Lec 2: BS on answers              | 14                   | 14                  | 100%          | ✅ Completed  |
+|                            | Lec 3: BS on 2D arrays            | 5                   | 5                   | 100%          | ✅ Completed |
+| **Strings[Basic and Medium]** [15/15]               | Lec 1: Basic String problems      | 7                   | 7                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Medium String problems     | 0                   | 8                  | 100%          | ✅ Completed |
 | **Linked Lists** [0/31]           | Lec 1: 1D Linked List             | 6                   | 5                  | 00%          | 🟠 In Progress  |
 |                            | Lec 2: Doubly Linked List         | 0                   | 4                  | 00%          | 🔴 Not Started  |
 |                            | Lec 3: Medium problems of LL      | 0                   | 15                  | 00%          | 🔴 Not Started  |
