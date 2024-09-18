@@ -39,7 +39,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/130/455-28%25-red)
+![Progress](https://img.shields.io/badge/134/455-29%25-red)
 
 
 ## Topics Overview
@@ -64,8 +64,8 @@ I will update this section regularly as I complete more problems:
 | **Strings[Basic and Medium]** [15/15]               | Lec 1: Basic String problems      | 7                   | 7                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Medium String problems     | 8                   | 8                  | 100%          | ✅ Completed |
 | **Linked Lists** [5/31]           | Lec 1: 1D Linked List             | 5                  | 5                  | 100%          | ✅ Completed  |
-|                            | Lec 2: Doubly Linked List         | 0                   | 4                  | 00%          | 🟠 In Progress  |
-|                            | Lec 3: Medium problems of LL      | 0                   | 15                  | 00%          | 🔴 Not Started  |
+|                            | Lec 2: Doubly Linked List         | 4                   | 4                  | 100%          | ✅ Completed  |
+|                            | Lec 3: Medium problems of LL      | 0                   | 15                  | 00%          | 🟠 In Progress  |
 |                            | Lec 4: Medium problems of DLL     | 0                   | 3                  | 00%          | 🔴 Not Started  |
 |                            | Lec 5: Hard problems of LL        | 0                   | 4                  | 00%          | 🔴 Not Started  |
 | **Recursion** [0/25]             | Lec 1: Recursion basics           | 0                   | 5                  | 00%          | 🔴 Not Started  |
