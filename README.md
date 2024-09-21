@@ -63,7 +63,7 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 3: BS on 2D arrays            | 5                   | 5                   | 100%          | ✅ Completed |
 | **Strings[Basic and Medium]** [15/15]               | Lec 1: Basic String problems      | 7                   | 7                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Medium String problems     | 8                   | 8                  | 100%          | ✅ Completed |
-| **Linked Lists** [9/31]           | Lec 1: 1D Linked List             | 5                  | 5                  | 100%          | ✅ Completed  |
+| **Linked Lists** [19/31]           | Lec 1: 1D Linked List             | 5                  | 5                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Doubly Linked List         | 4                   | 4                  | 100%          | ✅ Completed  |
 |                            | Lec 3: Medium problems of LL      | 10                   | 15                  | 66%          | 🟠 In Progress  |
 |                            | Lec 4: Medium problems of DLL     | 0                   | 3                  | 00%          | 🔴 Not Started  |
