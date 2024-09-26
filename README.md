@@ -65,9 +65,9 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 2: Medium String problems     | 8                   | 8                  | 100%          | ✅ Completed |
 | **Linked Lists** [19/31]           | Lec 1: 1D Linked List             | 5                  | 5                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Doubly Linked List         | 4                   | 4                  | 100%          | ✅ Completed  |
-|                            | Lec 3: Medium problems of LL      | 10                   | 15                  | 66%          | 🟠 In Progress  |
-|                            | Lec 4: Medium problems of DLL     | 0                   | 3                  | 00%          | 🔴 Not Started  |
-|                            | Lec 5: Hard problems of LL        | 0                   | 4                  | 00%          | 🔴 Not Started  |
+|                            | Lec 3: Medium problems of LL      | 15                   | 15                  | 100%          | 🟠 In Progress  |
+|                            | Lec 4: Medium problems of DLL     | 3                   | 3                  | 100%          | 🔴 Not Started  |
+|                            | Lec 5: Hard problems of LL        | 4                   | 4                  | 100%          | 🔴 Not Started  |
 | **Recursion** [0/25]             | Lec 1: Recursion basics           | 0                   | 5                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Subsequences pattern       | 0                   | 12                  | 00%          | 🔴 Not Started  |
 |                            | Lec 3: Hard problems              | 0                   | 8                  | 00%          | 🔴 Not Started  |
