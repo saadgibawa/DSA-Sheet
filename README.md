@@ -39,7 +39,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/156/455-34%25-red)
+![Progress](https://img.shields.io/badge/161/455-35%25-red)
 
 
 ## Topics Overview
@@ -68,7 +68,7 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 3: Medium problems of LL      | 15                   | 15                  | 100%          | ✅ Completed  |
 |                            | Lec 4: Medium problems of DLL     | 3                   | 3                  | 100%          | ✅ Completed  |
 |                            | Lec 5: Hard problems of LL        | 4                   | 4                  | 100%          | ✅ Completed  |
-| **Recursion** [0/25]             | Lec 1: Recursion basics           | 5                   | 5                  | 100%          | ✅ Completed  |
+| **Recursion** [5/25]             | Lec 1: Recursion basics           | 5                   | 5                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Subsequences pattern       | 0                   | 12                  | 00%          | 🟠 In Progress  |
 |                            | Lec 3: Hard problems              | 0                   | 8                  | 00%          | 🔴 Not Started  |
 | **Bit Manipulation** [0/18]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
