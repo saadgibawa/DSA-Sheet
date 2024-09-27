@@ -143,18 +143,6 @@ The repository is organized by topics, with each topic containing directories fo
 
 ```
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/strivers-az-dsa-solutions.git
-   ```
-2. **Navigate to a specific topic:**
-   ```bash
-   cd strivers-az-dsa-solutions/Arrays
-   ```
-3. **Explore the solutions:**
-   Browse through the code files for my personal implementations.
 
 ## Contributing
 
