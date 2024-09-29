@@ -20,8 +20,6 @@ This repository is a personal project where I track my progress through Striver'
   
 - [Structure](#structure)
   
-- [Getting Started](#getting-started)
-  
 - [Contributing](#contributing)
   
 - [License](#license)
