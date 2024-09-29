@@ -67,7 +67,7 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 4: Medium problems of DLL     | 3                   | 3                  | 100%          | ✅ Completed  |
 |                            | Lec 5: Hard problems of LL        | 4                   | 4                  | 100%          | ✅ Completed  |
 | **Recursion** [5/25]             | Lec 1: Recursion basics           | 5                   | 5                  | 100%          | ✅ Completed  |
-|                            | Lec 2: Subsequences pattern       | 6                   | 12                  | 00%          | 🟠 In Progress  |
+|                            | Lec 2: Subsequences pattern       | 6                   | 12                  | 50%          | 🟠 In Progress  |
 |                            | Lec 3: Hard problems              | 0                   | 8                  | 00%          | 🔴 Not Started  |
 | **Bit Manipulation** [0/18]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Interview Problems         | 0                   | 5                  | 00%          | 🔴 Not Started  |
