@@ -37,7 +37,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/161/455-35%25-red)
+![Progress](https://img.shields.io/badge/181/455-39%25-red)
 
 
 ## Topics Overview
@@ -66,11 +66,11 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 3: Medium problems of LL      | 15                   | 15                  | 100%          | ✅ Completed  |
 |                            | Lec 4: Medium problems of DLL     | 3                   | 3                  | 100%          | ✅ Completed  |
 |                            | Lec 5: Hard problems of LL        | 4                   | 4                  | 100%          | ✅ Completed  |
-| **Recursion** [5/25]             | Lec 1: Recursion basics           | 5                   | 5                  | 100%          | ✅ Completed  |
-|                            | Lec 2: Subsequences pattern       | 12                   | 12                  | 50%          | 🟠 In Progress  |
-|                            | Lec 3: Hard problems              | 0                   | 8                  | 00%          | 🔴 Not Started  |
-| **Bit Manipulation** [0/18]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: Interview Problems         | 0                   | 5                  | 00%          | 🔴 Not Started  |
+| **Recursion** [25/25]             | Lec 1: Recursion basics           | 5                   | 5                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Subsequences pattern       | 12                   | 12                  | 100%          | ✅ Completed  |
+|                            | Lec 3: Hard problems              | 8                   | 8                  | 100%          | ✅ Completed  |
+| **Bit Manipulation** [0/18]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🟠 In Progress  |
+|                            | Lec 2: Interview Problems         | 0                   | 5                  | 00%          | 🟠 In Progress  |
 |                            | Lec 3: Advanced maths             | 0                   | 5                  | 00%          | 🔴 Not Started  |
 | **Stacks and Queues** [0/30]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Prefix, Infix, PostFix Conversion Problems         | 0                   | 6                  | 00%          | 🔴 Not Started  |
