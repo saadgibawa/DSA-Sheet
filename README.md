@@ -37,7 +37,7 @@ I will update this section regularly as I complete more problems:
 
 ## Overall progress
 
-![Progress](https://img.shields.io/badge/190/455-41%25-red)
+![Progress](https://img.shields.io/badge/252/455-55%25-red)
 
 
 ## Topics Overview
@@ -69,18 +69,18 @@ I will update this section regularly as I complete more problems:
 | **Recursion** [25/25]             | Lec 1: Recursion basics           | 5                   | 5                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Subsequences pattern       | 12                   | 12                  | 100%          | ✅ Completed  |
 |                            | Lec 3: Hard problems              | 8                   | 8                  | 100%          | ✅ Completed  |
-| **Bit Manipulation** [0/18]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🟠 In Progress  |
-|                            | Lec 2: Interview Problems         | 0                   | 5                  | 00%          | 🟠 In Progress  |
-|                            | Lec 3: Advanced maths             | 0                   | 5                  | 00%          | 🔴 Not Started  |
-| **Stacks and Queues** [0/30]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: Prefix, Infix, PostFix Conversion Problems         | 0                   | 6                  | 00%          | 🔴 Not Started  |
-|                            | Lec 3: Monotonic Stack/Queue Problems [VVV. Imp]             | 0                   | 11                  | 00%          | 🔴 Not Started  |
-|                            | Lec 4: Implementation Problems             | 0                   | 5                  | 00%          | 🔴 Not Started  |
-| **Sliding Window & Two Pointer Combined Problems** [0/12]      | Lec 1: Medium Problems                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: Hard Problems         | 0                   | 4                  | 00%          | 🔴 Not Started  |
-| **Heaps** [0/17]      | Lec 1: Learning                   | 0                   | 4                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: Medium Problems         | 0                   | 7                  | 00%          | 🔴 Not Started  |
-|                            | Lec 3: Hard Problems             | 0                   | 6                  | 00%          | 🔴 Not Started  |
+| **Bit Manipulation** [18/18]      | Lec 1: Learning                   | 8                   | 8                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Interview Problems         | 5                   | 5                  | 100%          | ✅ Completed  |
+|                            | Lec 3: Advanced maths             | 5                   | 5                  | 100%          | ✅ Completed  |
+| **Stacks and Queues** [30/30]      | Lec 1: Learning                   | 8                   | 8                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Prefix, Infix, PostFix Conversion Problems         | 6                   | 6                  | 100%          | ✅ Completed  |
+|                            | Lec 3: Monotonic Stack/Queue Problems [VVV. Imp]             | 11                   | 11                  | 100%          | ✅ Completed  |
+|                            | Lec 4: Implementation Problems             | 5                   | 5                  | 100%          | ✅ Completed  |
+| **Sliding Window & Two Pointer Combined Problems** [12/12]      | Lec 1: Medium Problems                   | 8                   | 8                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Hard Problems         | 4                   | 4                  | 100%          | ✅ Completed  |
+| **Heaps** [11/17]      | Lec 1: Learning                   | 4                   | 4                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Medium Problems         | 7                   | 7                  | 100%          | ✅ Completed  |
+|                            | Lec 3: Hard Problems             | 0                   | 6                  | 00%          | 🟠 In Progress  |
 | **Greedy Algorithms** [0/16]      | Lec 1: Easy problems                   | 0                   | 5                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Medium / Hard         | 0                   | 11                  | 00%          | 🔴 Not Started  |
 | **Binary Trees** [0/39]      | Lec 1: Transversals                   | 0                   | 13                  | 00%          | 🔴 Not Started  |
