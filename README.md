@@ -80,7 +80,7 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 2: Hard Problems         | 4                   | 4                  | 100%          | ✅ Completed  |
 | **Heaps** [11/17]      | Lec 1: Learning                   | 4                   | 4                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Medium Problems         | 7                   | 7                  | 100%          | ✅ Completed  |
-|                            | Lec 3: Hard Problems             | 6                   | 6                  | 00%          | 🟠 In Progress  |
+|                            | Lec 3: Hard Problems             | 6                   | 6                  | 100%          | ✅ Completed  |
 | **Greedy Algorithms** [0/16]      | Lec 1: Easy problems                   | 0                   | 5                  | 00%          | 🔴 Not Started  |
 |                            | Lec 2: Medium / Hard         | 0                   | 11                  | 00%          | 🔴 Not Started  |
 | **Binary Trees** [0/39]      | Lec 1: Transversals                   | 0                   | 13                  | 00%          | 🔴 Not Started  |
