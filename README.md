@@ -78,7 +78,7 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 4: Implementation Problems             | 5                   | 5                  | 100%          | ✅ Completed  |
 | **Sliding Window & Two Pointer Combined Problems** [12/12]      | Lec 1: Medium Problems                   | 8                   | 8                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Hard Problems         | 4                   | 4                  | 100%          | ✅ Completed  |
-| **Heaps** [11/17]      | Lec 1: Learning                   | 4                   | 4                  | 100%          | ✅ Completed  |
+| **Heaps** [17/17]      | Lec 1: Learning                   | 4                   | 4                  | 100%          | ✅ Completed  |
 |                            | Lec 2: Medium Problems         | 7                   | 7                  | 100%          | ✅ Completed  |
 |                            | Lec 3: Hard Problems             | 6                   | 6                  | 100%          | ✅ Completed  |
 | **Greedy Algorithms** [0/16]      | Lec 1: Easy problems                   | 0                   | 5                  | 00%          | 🔴 Not Started  |
